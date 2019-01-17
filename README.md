@@ -2,9 +2,9 @@
 Can't find anyone who loves anime as much as you do?
 
 # What is it about
-Test based system which tests you on your Japanese language proficiency.
+Made it to study for my Japanese test. A selection of tests to test you on your Japanese language proficiency. Have fun!
 
-# Tests Available
+# Tests Available for now
 1. Hiragana (Easy)
 
 2. Hiragana (Medium)
