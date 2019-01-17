@@ -1,6 +1,15 @@
 # LearnJapanese
 Can't find anyone who loves anime as much as you do?
 
+# What is it about
+Test based system which tests you on your Japanese language proficiency.
+
+# Tests Available
+1. Hiragana (Easy)
+
+2. Hiragana (Medium)
+
+3. Hiragana (Hard)
 # How to use
 **Step One:** Download the python file.
 
